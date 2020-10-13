@@ -7,3 +7,7 @@ Cliquez sur "Ouvrir un fichier ou project"
 L'explorateur s'ouvre
 Ouvrez le repertoire du projet
 sélectionnez le fichier qui a l'extension .pro
+Cliquez sur ouvrir
+Vous pouvez à présent exécuter le projet
+
+Merci !
